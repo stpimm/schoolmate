@@ -1,16 +1,13 @@
-# schoolmate
+# Schoolmate
 
-A new Flutter project.
+Software Engineering - COMP6100001 Project.
 
-## Getting Started
+## About this project
+The purpose of creating this app is to provide a platform for students, teachers, and parents where they can monitor  student's status such as attendance, score, exam and quiz date, assignment, people in class, etc.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Meet our team
+- [Alisha Azzahra N.    - 2502012584]
+- [Fatin Nurhalisa R.   - 2502015794]
+- [Ilyasa Fathur R.     - 2502030372]
+- [Immanuel Sitepu      - 2502019621]
+- [Sabrina Annisa F.    - 2502026482]
